@@ -17,9 +17,7 @@ mas somente os que forem divisiveis por 3 e 5.
 
 ## Como funciona a função?
 
-1 - Você deve inserir o número desejado na primeira variável : ``` int digiteNumero = ```
-    
-    Obs: O número deve ser inteiro e positivo (a partir de 0).
-
+1 - Você deve inserir o número inteiro desejado na primeira variável : ``` int digiteNumero = ```
+    Lembrando que o número deve ser inteiro e positivo (a partir de 0).
 
 2 - Clique em "RUN" e veja o resultado!
