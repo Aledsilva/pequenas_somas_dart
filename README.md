@@ -10,6 +10,7 @@ mas somente os que forem divisiveis por 3 e 5.
 - AndroidStudio: nesta IDE o resultado irá aparecer na guia console/run.
 
 - Dartlang: Site/emulador oficial da linguaguem Dart :
+    O código se encontra na aba "main".
     Para este caso, apenas copie e cole o código no emulador, o link se encontra na linha abaixo.
   
 - Dartlang (dartpad.dartlang.org)
