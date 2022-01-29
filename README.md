@@ -14,7 +14,7 @@ mas somente os que forem divisiveis por 3 e 5.
     
     Para este caso, apenas copie e cole o código no emulador, o link se encontra na linha abaixo: 
     
-  [#Dartlang](dartpad.dartlang.org)
+  [Dartlang](dartpad.dartlang.org)
 
 ## Como funciona a função?
 
